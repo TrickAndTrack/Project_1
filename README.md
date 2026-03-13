@@ -13,5 +13,8 @@ java -jar jenkins.war or java -jar jenkins.war --httpPort=8081
 f. run on browser http://localhost:8080/job
 # how to config piepline
 ## step 1
+![img.png](img.png)
+## setp2 
+![img_1.png](img_1.png)
+![img_2.png](img_2.png)
 
-###
